@@ -17,15 +17,15 @@ Olá! Eu sou o <strong>Harryson Morais.</strong>
 
  <div>
   <a href="https://www.linkedin.com/in/harryson-morais/" target="_blank" title="linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
 
   <a href="mailto:harrysonfmorais@gmail.com" target="_blank" title="gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
 
   <a href="https://portfolio-indol-eight-40.vercel.app/" target="_blank" title="portfolio">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"/>
   </a>   
  </div>
  
